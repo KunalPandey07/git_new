@@ -1,1 +1,1 @@
-response.end("hellow World jenkin + hi docker!");
+response.end("hellow World jenkin");
